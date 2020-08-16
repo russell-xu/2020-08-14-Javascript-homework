@@ -1,4 +1,5 @@
 # 2020-08-14 Javascript homework
+If you want to see the full file, please open index.html in the public folder.
 ### After entering the page, the data will be get first and the screen will be updated
 ![](/picture/1-1.png)
 ![](/picture/2-1.png)
